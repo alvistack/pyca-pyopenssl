@@ -1,0 +1,4 @@
+python3-openssl: copyright-without-copyright-notice
+python3-openssl: initial-upload-closes-no-bugs
+python3-openssl: no-manual-page
+python3-openssl: zero-byte-file-in-doc-directory
