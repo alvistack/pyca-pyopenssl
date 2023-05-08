@@ -1,0 +1,5 @@
+python-pyopenssl source: file-without-copyright-information
+python-pyopenssl source: no-debian-changes
+python-pyopenssl source: source-contains-prebuilt-windows-binary
+python-pyopenssl source: source-is-missing
+python-pyopenssl source: source-package-encodes-python-version
