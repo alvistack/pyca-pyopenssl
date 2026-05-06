@@ -1,0 +1,5 @@
+python-pyopenssl (100:26.2.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pyca/pyopenssl/releases/tag/26.2.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Wed, 06 May 2026 12:10:40 +0800
